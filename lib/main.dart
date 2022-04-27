@@ -50,37 +50,37 @@ class _MyHomePageState extends State<MyHomePage> {
     },
     {
       'name': 'Mid Snow',
-      'temp': '19',
+      'temp': '7',
       'image': 'assets/images/Mid snow fast winds.png',
     },
     {
       'name': 'Mid Cloud, Mid Rain',
-      'temp': '19',
+      'temp': '20',
       'image': 'assets/images/Moon cloud mid rain.png',
     },
     {
       'name': 'Sunny, Mid Rain',
-      'temp': '19',
+      'temp': '24',
       'image': 'assets/images/Sun cloud angled rain.png',
     },
     {
       'name': 'Tornado',
-      'temp': '19',
+      'temp': '13',
       'image': 'assets/images/Tornado.png',
     },
     {
       'name': 'Sun, Low Rain',
-      'temp': '19',
+      'temp': '22',
       'image': 'assets/images/Sun cloud little rain.png',
     },
     {
       'name': 'Moon, Fast Wind',
-      'temp': '19',
+      'temp': '16',
       'image': 'assets/images/Moon fast wind.png',
     },
     {
       'name': 'Sun, Cloudy, Mid Rain',
-      'temp': '19',
+      'temp': '21',
       'image': 'assets/images/Sun cloud mid rain.png',
     },
   ];
